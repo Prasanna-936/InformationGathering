@@ -23,7 +23,8 @@ Footprinting is a part of the reconnaissance process which is used for gathering
 
 http://www.whois.com/whois website to get detailed information about a domain name information including its owner, its registrar, date of registration, expiry, name server, owner's contact information, etc.
 ## OUTPUT:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/84ee3840-46d4-4b69-ad21-954f46308e81)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/f286464c-cfa5-4c44-aa97-d0bcfbd3a5b4)
+
 
 
 ## Finding IP address:
@@ -43,7 +44,8 @@ get further detail by using ip2location.com website.
 
 
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/0fc6023a-0663-4db9-93e1-c6c90ebe3454)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/7ac9f166-a5f2-4c9c-ac04-60a2c362be44)
+
 
 
 
@@ -51,7 +53,8 @@ get further detail by using ip2location.com website.
 https://web.archive.org/
 ## Output:
 ```
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/45987ba0-02f2-49ac-9602-d17c8958fb8e)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/908b9974-0db6-453d-8939-bf4b134007f5)
+
 ```
 
 ## Webserver Fingerprinting:
