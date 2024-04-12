@@ -64,16 +64,17 @@ GET /HTTP/1.0
 ```
 
 ## Output:
-```
+
 ![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/c80acbc3-a197-48b5-8ddc-d61d0d4e47b9)
-```
+
 
 ## nmap:
 ```
-nmap -vvv -sV 192.168.23.133
+nmap -p 21 -sV --script=banner ftp.vim.org
 ```
 ## Output:
-![Screenshot 2024-03-22 110607](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/7ca989dc-402d-4e4b-8112-61de863c3b28)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/644fe232-95c4-4422-9952-bc53d3a28770)
+
 
 
 
