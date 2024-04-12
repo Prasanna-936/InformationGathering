@@ -31,10 +31,11 @@ http://www.whois.com/whois website to get detailed information about a domain na
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
 
 ```
-ping google.com
+ping saveetha.ac.in
 ```
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/2dc7990f-2aaf-4067-8104-c7f119b35db4)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/3157630d-5094-4d5f-9952-d8244ce19f77)
+
 
 
 
@@ -52,10 +53,8 @@ get further detail by using ip2location.com website.
 ## History of the website:
 https://web.archive.org/
 ## Output:
-```
 ![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/908b9974-0db6-453d-8939-bf4b134007f5)
 
-```
 
 ## Webserver Fingerprinting:
 ### Netcat:
@@ -80,7 +79,7 @@ nmap -vvv -sV 192.168.23.133
 
 ### Whatweb:
 ```
-whatweb google.com
+whatweb infosys.com
 ```
 ```
 whatweb yahoo.com
@@ -89,11 +88,8 @@ whatweb yahoo.com
 whatweb -v -a 3 172.217.160.174
 ```
 ### Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/31726de4-547e-4cf9-92ba-5f1e7e5f4bc9)
+![image](https://github.com/Prasanna-936/InformationGathering/assets/130341982/5bc767b4-79cc-4c5f-add0-360202c16645)
 
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/e1eefe87-7eff-474d-969e-38cda47ed8ea)
-
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/6ce7eb16-8ceb-42d4-b655-61791bc3b6f9)
 
 
 
