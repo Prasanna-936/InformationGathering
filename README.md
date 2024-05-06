@@ -1,4 +1,4 @@
-# To perform information gathering techniques
+# Information Gathering
 
 ## AIM:
 
